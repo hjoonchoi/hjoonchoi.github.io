@@ -1,0 +1,42 @@
+{
+    "meta": [
+        {
+            "url": "default",
+            "title": "Joon Choi's Page",
+            "description": "Joon Choi's personal website",
+            "keywords": "software developer, joon choi, profile"
+        },
+
+        {
+            "url": "about",
+            "title": "Joon Choi | About",
+            "description": "About Joon Choi",
+            "keywords": "joon choi, about"
+        },
+
+        {
+            "url": "education",
+            "title": "Joon Choi | Education",
+            "description": "Education of Joon Choi ",
+            "keywords": "joon choi, University of Toronto, Computer Science"
+        },
+        {
+            "url": "professional",
+            "title": "Joon Choi | Professional Experience",
+            "description": "Professional Experience of Joon Choi",
+            "keywords": "Work Experience, Southpaw Technology, Computer Science, Joon Choi, Software Developer"
+        },
+        {
+            "url": "portfolio",
+            "title": "Joon Choi | Portfolio",
+            "description": "Portfolio of Joon Choi",
+            "keywords": "Portfolio, GitHub, Joon Choi"
+        },
+        {
+            "url": "misc",
+            "title": "Joon Choi | Misc",
+            "description": "Misc of Joon Choi",
+            "keywords": "Misc"
+        }
+    ]
+}

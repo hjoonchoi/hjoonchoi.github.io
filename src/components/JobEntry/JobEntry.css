@@ -1,0 +1,54 @@
+.job-entry {
+  position: relative;
+}
+
+.job-entry>h3 {
+  position: absolute;
+  left: -24px;
+  top: -11px;
+}
+
+.job-entry .workpanel-marker {
+  margin-bottom: 20px;
+}
+
+.workpanel-marker {
+  background-color: black;
+  display: block;
+  border-radius: .2rem;
+  width: 40px;
+  height: 40px;
+  margin-left: 55px;
+}
+
+.workpanel-marker-wish {
+  background: linear-gradient( 0deg, white 0%, white 50%, #2fb7eb 50%, #2fb7eb 100% );
+}
+
+.workpanel-marker-amazon {
+  background: linear-gradient( 0deg, #e67e22 0%, #e67e22 50%, #eee 50%, #eee 100%);
+}
+
+.workpanel-marker-southpaw {
+  background: linear-gradient( 0deg, #2e3234 0%, #2e3234 50%, #e67e22 50%, #e67e22 100%);
+}
+
+.workpanel-marker-uoft {
+  background: linear-gradient( 0deg, white 0%, white 50%, #002a5c 50%, #002a5c 100%);
+}
+
+.workpanels .timeline-entry {
+  background-color: #f4f4f4;
+  display: block;
+  border-radius: .2rem;
+  left: 107px;
+  padding: 10px;
+  position: relative;
+  top: -60px;
+  width: calc(100% - 150px);
+}
+
+.timeline-entry-title>h4 {
+  font-family: 'Ubuntu Mono', monospace;
+  display: inline;
+}
